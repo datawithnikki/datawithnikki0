@@ -1,12 +1,4 @@
-★ Recommended · Professional + Story
-📊 Data Analyst · Power BI · SQL · DAX · Python · Gen AI
-📍 Patna, Bihar, India · Open to remote & hybrid roles
-💡 I turn raw, messy data into dashboards that earn their keep
-🚀 Built: JP Morgan Credit Analytics · Rapido Delhi · ASG Hospital
-🏅 Google Analytics Certified · Deloitte · Tata simulation alumni
-🛠 Advanced: Power BI · DAX · Excel · SQL · EDA · Gen AI
-📬 nikkishmandal600@gmail.com · linkedin.com/in/nikki-kumar-mandal
-🔥 "Every number has a story. I find it." — CodeWithNikki
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/nikki-kumar-mandal-7b0b09326) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikishmandal600@gmail.com) 
 
